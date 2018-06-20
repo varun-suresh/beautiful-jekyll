@@ -23,7 +23,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "I'm a computer vision engineer at Mighty AI, Seattle. I enjoy traveling and working on machine learning problems."
+  About Me: "aboutme"
   Projects:
     - High dimensional clustering: "https://github.com/varun-suresh/Clustering"
   
@@ -82,7 +82,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
